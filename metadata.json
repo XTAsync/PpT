@@ -1,0 +1,6 @@
+{
+  "name": "InvestGrow - Paper Trading Contest",
+  "description": "Compete with $100,000 virtual capital in the global paper-trading championship. Trade stocks, crypto, ETFs, and forex with live streaming prices, deep analytics, and real-time leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
