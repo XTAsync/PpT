@@ -2,6 +2,10 @@
   <img src="assets/logo.svg" alt="PpT logo" width="180" />
 </p>
 
+<p align="center">
+  <img src="assets/logo.svg" alt="PpT logo" width="180" />
+</p>
+
 # Paper Trading Tournament
 
 A contest-style paper-trading application for practising market decisions with virtual capital. Participants can explore supported markets, manage simulated positions, and compare performance on a leaderboard.
